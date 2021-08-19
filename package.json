@@ -1,0 +1,20 @@
+{
+  "name": "esbuild-css-modules",
+  "version": "1.0.0",
+  "description": "Example repository for an article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/how-to-js/esbuild-css-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/how-to-js/esbuild-css-modules/issues"
+  },
+  "homepage": "https://github.com/how-to-js/esbuild-css-modules#readme"
+}
