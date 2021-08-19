@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/how-to-js/esbuild-css-modules#readme",
   "devDependencies": {
-    "esbuild": "^0.12.21"
+    "css-tree": "^1.1.3",
+    "esbuild": "^0.12.21",
+    "esbuild-css-modules-plugin": "^2.0.8"
   }
 }
