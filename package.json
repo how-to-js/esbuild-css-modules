@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/how-to-js/esbuild-css-modules/issues"
   },
-  "homepage": "https://github.com/how-to-js/esbuild-css-modules#readme"
+  "homepage": "https://github.com/how-to-js/esbuild-css-modules#readme",
+  "devDependencies": {
+    "esbuild": "^0.12.21"
+  }
 }
